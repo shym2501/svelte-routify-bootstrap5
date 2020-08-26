@@ -1,0 +1,12 @@
+.logo-tbi {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar-nav li a {
+    font-size: 20px;
+}
+
+a, .dropdown-menu li a {
+    font-size: 18px;
+}
